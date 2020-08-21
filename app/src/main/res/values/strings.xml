@@ -1,3 +1,43 @@
 <resources>
     <string name="app_name">Moocs2020_Test</string>
+
+    <string name="lb_addAccountBanner">新增帳務</string>
+    <string name="lb_save">儲存</string>
+    <string name="lb_priceHint">price</string>
+    <string name="lb_categroyHint">收入/支出 分類選擇</string>
+    <string name="lb_categroy">分類</string>
+    <string name="lb_item">品名</string>
+    <string name="lb_payment">付款方式</string>
+    <string name="tx_payment">現金</string>
+    <string name="lb_date">日期</string>
+    <string name="lb_note">備註</string>
+
+
+    <string name="iv_desc">icon圖示</string>
+    <string name="title_activity_main2">BasicActivity</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="tab_text_4">Tab 4</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pref_category_name">JUST FOR DEMO</string>
+    <string name="default_three">3</string> <!-- 一定要整數 -->
+    <string name="lb_cuteDogSetting">每秒繞圈數</string>
+    <string name="Pref_keyForCuteDogSetting">KEY_forCuteDogSetting</string>
+    <string name="Pref_summaryCurrentlySetting">目前設定：</string>
+    <string name="Pref_round">圈</string>
+    <string name="lb_dogRun">繞圈設定</string>
+    <string name="Pref_keyForRun">KEY_forRun</string>
+    <string name="msg_run">繞圈</string>
+    <string name="msg_stop">靜止</string>
+    <string name="msg_perSec">每秒</string>
+    <string name="tx_subCategory">晚餐</string>
+    <string name="tx_itemCost">500</string>
+    <string name="tx_Category">食</string>
 </resources>
