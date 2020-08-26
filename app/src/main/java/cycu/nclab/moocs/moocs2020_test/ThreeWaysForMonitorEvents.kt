@@ -4,13 +4,13 @@ import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-import kotlinx.android.synthetic.main.activity_main.*
+import kotlinx.android.synthetic.main.activity_three_ways_for_click.*
 
-class ThreeWayForMonitorEvents : AppCompatActivity(), View.OnClickListener {
+class ThreeWaysForMonitorEvents : AppCompatActivity(), View.OnClickListener {
     private var isClicked: Boolean=false
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_three_ways_for_click)
 
         /*方法三：在類別中implement onClickListener
          */
